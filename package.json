@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-text-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "text",
+    "generator",
+    "text-generator",
+    "minecraft-text",
+    "minecraft-text-generator"
+  ],
+  "author": "DanPlayz",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
